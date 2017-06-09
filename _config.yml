@@ -13,8 +13,8 @@ tagline: Do I need this tagline?
 author :
   name : Edgar Robles
   email : blah@email.test
-  github : @erobl
-  twitter : @erobl
+  github : erobl
+  twitter : erobl
   feedburner : what
 
 # The production_url is only used when full-domain names are needed
